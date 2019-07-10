@@ -3,6 +3,7 @@
  * 
  * Copyright (c) 2012-2014 Marcin Warpechowski
  * Copyright (c) 2015 Handsoncode sp. z o.o. <hello@handsoncode.net>
+ * Copyright (c) 2019 Rathbone Labs, LLC
  * 
  * Permission is hereby granted, free of charge, to any person obtaining
  * a copy of this software and associated documentation files (the
@@ -24,7 +25,7 @@
  * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  * 
  * Version: 6.2.2
- * Release date: 19/12/2018 (built at 10/07/2019 01:20:51)
+ * Release date: 19/12/2018 (built at 10/07/2019 02:34:24)
  */
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
@@ -35770,7 +35771,7 @@ Handsontable.DefaultSettings = _defaultSettings.default;
 Handsontable.EventManager = _eventManager.default;
 Handsontable._getListenersCounter = _eventManager.getListenersCounter; // For MemoryLeak tests
 
-Handsontable.buildDate = "10/07/2019 01:20:51";
+Handsontable.buildDate = "10/07/2019 02:34:24";
 Handsontable.packageName = "jacksontable";
 Handsontable.version = "6.2.2";
 var baseVersion = "";
