@@ -8,19 +8,10 @@ Jacksontable is an open source JavaScript/HTML5 data grid component with spreads
 
 If you are looking for an extended version, try out [Handsontable Pro](//github.com/handsontable/handsontable-pro).
 
-[![Build status](https://travis-ci.org/handsontable/handsontable.png?branch=master)](//travis-ci.org/handsontable/handsontable)
-[![npm](https://img.shields.io/npm/dt/handsontable.svg)](//npmjs.com/package/handsontable)
-[![npm](https://img.shields.io/npm/dm/handsontable.svg)](//npmjs.com/package/handsontable)
-[![npm](https://img.shields.io/github/contributors/handsontable/handsontable.svg)](//github.com/handsontable/handsontable/graphs/contributors)
-
-
-----
-
-**We are looking for Contributors who would like to help us with translations. [Learn more](https://github.com/handsontable/handsontable/issues/4696)**
-<br/>
-Most wanted languages: Danish, Portuguese, Spanish and Swedish.
-
----
+[![Build status](https://travis-ci.org/rathbone-labs/jacksontable.png?branch=master)](//travis-ci.org/rathbone-labs/jacksontable)
+[![npm](https://img.shields.io/npm/dt/handsontable.svg)](//npmjs.com/package/jacksontable)
+[![npm](https://img.shields.io/npm/dm/handsontable.svg)](//npmjs.com/package/jacksontable)
+[![npm](https://img.shields.io/github/contributors/handsontable/handsontable.svg)](//github.com/rathbone-labs/jacksontable/graphs/contributors)
 
 <br/>
 
@@ -42,7 +33,7 @@ Most wanted languages: Danish, Portuguese, Spanish and Swedish.
 <br/>
 
 ### What to use it for?
-The list below gives a rough idea on what you can do with Handsontable CE, but it shouldn't limit you in any way:
+The list below gives a rough idea on what you can do with Jacksontable, but it shouldn't limit you in any way:
 
 - Database editing
 - Configuration controlling
@@ -54,23 +45,23 @@ The list below gives a rough idea on what you can do with Handsontable CE, but i
 <br/>
 
 ### Installation
-There are many ways to install Handsontable CE, but we suggest using npm:
+There are many ways to install Jacksontable, but we suggest using npm:
 ```
-npm install handsontable
+npm install jacksontable
 ```
 
 **Alternative ways to install**
-- See the [download section](//handsontable.com/community-download) on how to install Handsontable CE using nuget, bower, yarn and more.
+- See the releases page for downloadable zips
 
 <br/>
 
 ### Basic usage
-Assuming that you have already installed Handsontable CE, create an empty `<div>` element that will be turned into a spreadsheet:
+Assuming that you have already installed Jacksontable, create an empty `<div>` element that will be turned into a spreadsheet:
 
 ```html
 <div id="example"></div>
 ```
-In the next step, pass a reference to that `<div>` element into the Handsontable CE constructor and fill the instance with sample data:
+In the next step, pass a reference to that `<div>` element into the Jacksontable constructor and fill the instance with sample data:
 ```javascript
 var data = [
   ["", "Tesla", "Volvo", "Toyota", "Honda"],
