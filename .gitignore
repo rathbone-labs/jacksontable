@@ -12,7 +12,6 @@ src/3rdparty/walkontable/dist/
 cars.sqlite
 dev*.html
 npm-debug.log
-
 !dist/README.md
 node_modules/
 commonjs/
