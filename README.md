@@ -9,9 +9,9 @@ Jacksontable is an open source JavaScript/HTML5 data grid component with spreads
 If you are looking for an extended version, try out [Handsontable Pro](//github.com/handsontable/handsontable-pro).
 
 [![Build status](https://travis-ci.org/rathbone-labs/jacksontable.png?branch=master)](//travis-ci.org/rathbone-labs/jacksontable)
-[![npm](https://img.shields.io/npm/dt/handsontable.svg)](//npmjs.com/package/jacksontable)
-[![npm](https://img.shields.io/npm/dm/handsontable.svg)](//npmjs.com/package/jacksontable)
-[![npm](https://img.shields.io/github/contributors/handsontable/handsontable.svg)](//github.com/rathbone-labs/jacksontable/graphs/contributors)
+[![npm](https://img.shields.io/npm/dt/jacksontable.svg)](//npmjs.com/package/jacksontable)
+[![npm](https://img.shields.io/npm/dm/jacksontable.svg)](//npmjs.com/package/jacksontable)
+[![npm](https://img.shields.io/github/contributors/rathbone-labs/jacksontable.svg)](//github.com/rathbone-labs/jacksontable/graphs/contributors)
 
 <br/>
 
